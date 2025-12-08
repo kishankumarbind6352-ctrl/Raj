@@ -1,8 +1,11 @@
 {
+  "validKeys": [
+    "FF_GAMING_0.6_ABC12345",
+    "FF_GAMING_0.6_XY9PQW88",
+    "FF_GAMING_0.6_KINGRAJ01"
+  ],
   "showUpdate": false,
-  "title": "🔔 New Update Available!",
-  "message": "Please update the app to continue using it.",
-  "buttonText": "Update Now",
-  "updateUrl": "https://t.me/ffgaming_vip",
+  "title": "MOD BY RAJ",
+  "message": "FF GAMING 0.6",
   "credit": "MR. RAJ VERMA"
 }
