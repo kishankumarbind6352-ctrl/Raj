@@ -4,9 +4,12 @@
     "FF_GAMING_0.6_XY9PQW88",
     "FF_GAMING_0.6_KINGRAJ01"
   ],
-  "showUpdate": true,
-  "title": "MOD BY RAJ",
-  "message": "FF GAMING 0.6",
+
+  "showUpdate": false,
+  "title": "🔔 New Update Available!",
+  "message": "A new version of the app is available!",
+  "buttonText": "Update Now",
+  "updateUrl": "https://t.me/P2077KNGVIPOFFICIAL",
+
   "credit": "MR. RAJ VERMA"
-  "UpdateUrl": "https://t.me/P2077KNGVIPOFFICIAL"
 }
