@@ -5,7 +5,7 @@
     "FF_GAMING_0.6_KINGRAJ01"
   ],
 
-  "showUpdate": true,
+  "showUpdate": false,
   "title": "🔔 New Update Available!",
   "message": "A new version of the app is available!",
   "buttonText": "Update Now",
